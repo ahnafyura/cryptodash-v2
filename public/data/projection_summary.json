@@ -1,0 +1,20 @@
+{
+ "source": "walk-forward LSTM quantile model, feature set D_all, 16 folds, 2019-01 to 2026-11-04",
+ "steps": 2865,
+ "coverage_80_overall": 82.5,
+ "mae_gain_mean_pct": -3.94,
+ "mae_gain_median_pct": -1.7,
+ "folds_better_than_naive": 1,
+ "folds_total": 16,
+ "latest": {
+  "asof": "2026-11-05 00:00:00",
+  "close": 80636.61,
+  "band_pct_from_fold": {
+   "q10": -2.61,
+   "q50": 0.05,
+   "q90": 2.94
+  },
+  "fold": 16,
+  "fold_steps": 127
+ }
+}

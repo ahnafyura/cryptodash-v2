@@ -1,0 +1,130 @@
+[
+ {
+  "fold": 1,
+  "period": "2019-01-01 to 2019-06-30",
+  "mae_model": 116.9,
+  "mae_naive": 91.7,
+  "gain_pct": -27.59,
+  "coverage": 75.7
+ },
+ {
+  "fold": 2,
+  "period": "2019-07-01 to 2019-12-31",
+  "mae_model": 150.8,
+  "mae_naive": 149.8,
+  "gain_pct": -0.61,
+  "coverage": 82.6
+ },
+ {
+  "fold": 3,
+  "period": "2020-01-01 to 2020-06-30",
+  "mae_model": 147.5,
+  "mae_naive": 137.2,
+  "gain_pct": -7.52,
+  "coverage": 78.0
+ },
+ {
+  "fold": 4,
+  "period": "2020-07-01 to 2020-12-31",
+  "mae_model": 198.7,
+  "mae_naive": 192.2,
+  "gain_pct": -3.39,
+  "coverage": 83.7
+ },
+ {
+  "fold": 5,
+  "period": "2021-01-01 to 2021-06-30",
+  "mae_model": 1143.5,
+  "mae_naive": 1141.1,
+  "gain_pct": -0.21,
+  "coverage": 77.9
+ },
+ {
+  "fold": 6,
+  "period": "2021-07-01 to 2021-12-31",
+  "mae_model": 828.4,
+  "mae_naive": 823.3,
+  "gain_pct": -0.62,
+  "coverage": 84.8
+ },
+ {
+  "fold": 7,
+  "period": "2022-01-01 to 2022-06-30",
+  "mae_model": 635.0,
+  "mae_naive": 629.5,
+  "gain_pct": -0.88,
+  "coverage": 82.9
+ },
+ {
+  "fold": 8,
+  "period": "2022-07-01 to 2022-12-31",
+  "mae_model": 257.1,
+  "mae_naive": 252.7,
+  "gain_pct": -1.72,
+  "coverage": 88.0
+ },
+ {
+  "fold": 9,
+  "period": "2023-01-01 to 2023-06-30",
+  "mae_model": 298.5,
+  "mae_naive": 293.5,
+  "gain_pct": -1.68,
+  "coverage": 85.6
+ },
+ {
+  "fold": 10,
+  "period": "2023-07-01 to 2023-12-31",
+  "mae_model": 296.2,
+  "mae_naive": 271.0,
+  "gain_pct": -9.3,
+  "coverage": 88.6
+ },
+ {
+  "fold": 11,
+  "period": "2024-01-01 to 2024-06-30",
+  "mae_model": 796.6,
+  "mae_naive": 772.6,
+  "gain_pct": -3.1,
+  "coverage": 79.1
+ },
+ {
+  "fold": 12,
+  "period": "2024-07-01 to 2024-12-31",
+  "mae_model": 935.4,
+  "mae_naive": 937.6,
+  "gain_pct": 0.24,
+  "coverage": 79.9
+ },
+ {
+  "fold": 13,
+  "period": "2025-01-01 to 2025-06-30",
+  "mae_model": 1141.5,
+  "mae_naive": 1115.6,
+  "gain_pct": -2.33,
+  "coverage": 80.7
+ },
+ {
+  "fold": 14,
+  "period": "2025-07-01 to 2025-12-31",
+  "mae_model": 1067.7,
+  "mae_naive": 1045.6,
+  "gain_pct": -2.11,
+  "coverage": 84.8
+ },
+ {
+  "fold": 15,
+  "period": "2026-01-01 to 2026-06-30",
+  "mae_model": 854.0,
+  "mae_naive": 843.6,
+  "gain_pct": -1.23,
+  "coverage": 81.8
+ },
+ {
+  "fold": 16,
+  "period": "2026-07-01 to 2026-11-04",
+  "mae_model": 637.8,
+  "mae_naive": 631.8,
+  "gain_pct": -0.95,
+  "coverage": 88.2
+ }
+]
